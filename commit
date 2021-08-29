@@ -1,0 +1,23 @@
+[33mcommit bf9d3ad649b9b68fb1f34f482a8811f457e584e3[m[33m ([m[1;36mHEAD -> [m[1;32mexemplo-branch[m[33m, [m[1;31morigin/tarefa/minha-primeira-branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/exemplo-branch[m[33m, [m[1;32mtarefa/minha-primeira-branch[m[33m, [m[1;32mmain[m[33m)[m
+Author: ericarossim <erycarossim@gmail.com>
+Date:   Sat Aug 28 19:37:21 2021 -0300
+
+    adicionando o gitignore
+
+[33mcommit 794d29129ad849363bfe551c0bc4c95119520b12[m
+Author: erycarossim <79291787+erycarossim1@users.noreply.github.com>
+Date:   Sat Aug 28 19:18:15 2021 -0300
+
+    Create README.md
+
+[33mcommit 3bd621cc9f2f237e032828e79a3fa85f409530f6[m
+Author: ericarossim <erycarossim@gmail.com>
+Date:   Sat Aug 28 19:08:46 2021 -0300
+
+    Criar
+
+[33mcommit f688fa86af1edab6f7bb5975f8d4a5a19016c81f[m
+Author: ericarossim <erycarossim@gmail.com>
+Date:   Sat Aug 28 18:35:09 2021 -0300
+
+    Primeiro commit, vamos nós
